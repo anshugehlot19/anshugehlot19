@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**anshugehlot19/anshugehlot19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Anshu
 
-Here are some ideas to get you started:
+I build AI-powered marketing systems and automation workflows for agencies and businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Cold email automation systems
+- Lead generation frameworks
+- AI-driven marketing workflows
+- linkedin automation systems 
+## 🧠 Goal
+To create scalable systems that help agencies grow faster using AI.
+
+## 🛠️ Projects
+- Coming soon (actively building)
+
+
+
